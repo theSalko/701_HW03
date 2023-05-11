@@ -1,0 +1,1352 @@
+[
+    {
+        "total_size": 1303,
+        "k_size": 1000,
+        "k_prime_size": 1000,
+        "query_time": 2.2251939990383107,
+        "observed_fp_rate": 0.008,
+        "target_fp_rate": 0.0078125,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.0022251939990383107
+    },
+    {
+        "total_size": 1303,
+        "k_size": 1000,
+        "k_prime_size": 500,
+        "query_time": 1.098061002267059,
+        "observed_fp_rate": 0.008,
+        "target_fp_rate": 0.0078125,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.002196122004534118
+    },
+    {
+        "total_size": 1303,
+        "k_size": 1000,
+        "k_prime_size": 100,
+        "query_time": 0.21594599820673466,
+        "observed_fp_rate": 0.01,
+        "target_fp_rate": 0.0078125,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.0021594599820673466
+    },
+    {
+        "total_size": 1303,
+        "k_size": 1000,
+        "k_prime_size": 1000,
+        "query_time": 4.1370319995621685,
+        "observed_fp_rate": 0.011,
+        "target_fp_rate": 0.0078125,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.0041370319995621685
+    },
+    {
+        "total_size": 1303,
+        "k_size": 1000,
+        "k_prime_size": 500,
+        "query_time": 2.0274170019547455,
+        "observed_fp_rate": 0.006,
+        "target_fp_rate": 0.0078125,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.004054834003909491
+    },
+    {
+        "total_size": 1303,
+        "k_size": 1000,
+        "k_prime_size": 100,
+        "query_time": 0.45672099804505706,
+        "observed_fp_rate": 0.0,
+        "target_fp_rate": 0.0078125,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.004567209980450571
+    },
+    {
+        "total_size": 1303,
+        "k_size": 1000,
+        "k_prime_size": 1000,
+        "query_time": 8.00030800019158,
+        "observed_fp_rate": 0.003,
+        "target_fp_rate": 0.0078125,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.00800030800019158
+    },
+    {
+        "total_size": 1303,
+        "k_size": 1000,
+        "k_prime_size": 500,
+        "query_time": 2.0855689981544856,
+        "observed_fp_rate": 0.004,
+        "target_fp_rate": 0.0078125,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.004171137996308971
+    },
+    {
+        "total_size": 1303,
+        "k_size": 1000,
+        "k_prime_size": 100,
+        "query_time": 0.4195850015094038,
+        "observed_fp_rate": 0.01,
+        "target_fp_rate": 0.0078125,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.004195850015094038
+    },
+    {
+        "total_size": 1483,
+        "k_size": 1000,
+        "k_prime_size": 1000,
+        "query_time": 2.145642996765673,
+        "observed_fp_rate": 0.005,
+        "target_fp_rate": 0.00390625,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.002145642996765673
+    },
+    {
+        "total_size": 1483,
+        "k_size": 1000,
+        "k_prime_size": 500,
+        "query_time": 1.606410001841141,
+        "observed_fp_rate": 0.004,
+        "target_fp_rate": 0.00390625,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.003212820003682282
+    },
+    {
+        "total_size": 1483,
+        "k_size": 1000,
+        "k_prime_size": 100,
+        "query_time": 0.2314769990334753,
+        "observed_fp_rate": 0.01,
+        "target_fp_rate": 0.00390625,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.002314769990334753
+    },
+    {
+        "total_size": 1483,
+        "k_size": 1000,
+        "k_prime_size": 1000,
+        "query_time": 2.1509159996639937,
+        "observed_fp_rate": 0.006,
+        "target_fp_rate": 0.00390625,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.0021509159996639937
+    },
+    {
+        "total_size": 1483,
+        "k_size": 1000,
+        "k_prime_size": 500,
+        "query_time": 0.9592719979991671,
+        "observed_fp_rate": 0.004,
+        "target_fp_rate": 0.00390625,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.0019185439959983341
+    },
+    {
+        "total_size": 1483,
+        "k_size": 1000,
+        "k_prime_size": 100,
+        "query_time": 0.21295099941198714,
+        "observed_fp_rate": 0.0,
+        "target_fp_rate": 0.00390625,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.0021295099941198714
+    },
+    {
+        "total_size": 1483,
+        "k_size": 1000,
+        "k_prime_size": 1000,
+        "query_time": 2.12043999999878,
+        "observed_fp_rate": 0.001,
+        "target_fp_rate": 0.00390625,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.00212043999999878
+    },
+    {
+        "total_size": 1483,
+        "k_size": 1000,
+        "k_prime_size": 500,
+        "query_time": 1.057871002558386,
+        "observed_fp_rate": 0.002,
+        "target_fp_rate": 0.00390625,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.002115742005116772
+    },
+    {
+        "total_size": 1483,
+        "k_size": 1000,
+        "k_prime_size": 100,
+        "query_time": 0.2329259987163823,
+        "observed_fp_rate": 0.0,
+        "target_fp_rate": 0.00390625,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.002329259987163823
+    },
+    {
+        "total_size": 1844,
+        "k_size": 1000,
+        "k_prime_size": 1000,
+        "query_time": 1.4242479992390145,
+        "observed_fp_rate": 0.003,
+        "target_fp_rate": 0.0009765625,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.0014242479992390145
+    },
+    {
+        "total_size": 1844,
+        "k_size": 1000,
+        "k_prime_size": 500,
+        "query_time": 0.6803220021538436,
+        "observed_fp_rate": 0.002,
+        "target_fp_rate": 0.0009765625,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.0013606440043076873
+    },
+    {
+        "total_size": 1844,
+        "k_size": 1000,
+        "k_prime_size": 100,
+        "query_time": 0.12040499859722331,
+        "observed_fp_rate": 0.0,
+        "target_fp_rate": 0.0009765625,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.0012040499859722331
+    },
+    {
+        "total_size": 1844,
+        "k_size": 1000,
+        "k_prime_size": 1000,
+        "query_time": 1.1881320024258457,
+        "observed_fp_rate": 0.001,
+        "target_fp_rate": 0.0009765625,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.0011881320024258457
+    },
+    {
+        "total_size": 1844,
+        "k_size": 1000,
+        "k_prime_size": 500,
+        "query_time": 0.6049129988241475,
+        "observed_fp_rate": 0.002,
+        "target_fp_rate": 0.0009765625,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.001209825997648295
+    },
+    {
+        "total_size": 1844,
+        "k_size": 1000,
+        "k_prime_size": 100,
+        "query_time": 0.12454100215109065,
+        "observed_fp_rate": 0.0,
+        "target_fp_rate": 0.0009765625,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.0012454100215109065
+    },
+    {
+        "total_size": 1844,
+        "k_size": 1000,
+        "k_prime_size": 1000,
+        "query_time": 2.4855400006345008,
+        "observed_fp_rate": 0.0,
+        "target_fp_rate": 0.0009765625,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.0024855400006345008
+    },
+    {
+        "total_size": 1844,
+        "k_size": 1000,
+        "k_prime_size": 500,
+        "query_time": 1.2542429976747371,
+        "observed_fp_rate": 0.0,
+        "target_fp_rate": 0.0009765625,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.0025084859953494743
+    },
+    {
+        "total_size": 1844,
+        "k_size": 1000,
+        "k_prime_size": 100,
+        "query_time": 0.2442069999233354,
+        "observed_fp_rate": 0.0,
+        "target_fp_rate": 0.0009765625,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.002442069999233354
+    },
+    {
+        "total_size": 12664,
+        "k_size": 10000,
+        "k_prime_size": 10000,
+        "query_time": 11.18056699851877,
+        "observed_fp_rate": 0.0071,
+        "target_fp_rate": 0.0078125,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.001118056699851877
+    },
+    {
+        "total_size": 12664,
+        "k_size": 10000,
+        "k_prime_size": 5000,
+        "query_time": 4.895861999102635,
+        "observed_fp_rate": 0.0076,
+        "target_fp_rate": 0.0078125,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.000979172399820527
+    },
+    {
+        "total_size": 12664,
+        "k_size": 10000,
+        "k_prime_size": 1000,
+        "query_time": 0.9278260004066397,
+        "observed_fp_rate": 0.008,
+        "target_fp_rate": 0.0078125,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.0009278260004066397
+    },
+    {
+        "total_size": 12664,
+        "k_size": 10000,
+        "k_prime_size": 10000,
+        "query_time": 9.738459997606697,
+        "observed_fp_rate": 0.0103,
+        "target_fp_rate": 0.0078125,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.0009738459997606696
+    },
+    {
+        "total_size": 12664,
+        "k_size": 10000,
+        "k_prime_size": 5000,
+        "query_time": 5.05394699939643,
+        "observed_fp_rate": 0.0096,
+        "target_fp_rate": 0.0078125,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.0010107893998792862
+    },
+    {
+        "total_size": 12664,
+        "k_size": 10000,
+        "k_prime_size": 1000,
+        "query_time": 0.9751360012160148,
+        "observed_fp_rate": 0.013,
+        "target_fp_rate": 0.0078125,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.0009751360012160148
+    },
+    {
+        "total_size": 12664,
+        "k_size": 10000,
+        "k_prime_size": 10000,
+        "query_time": 24.954664000688354,
+        "observed_fp_rate": 0.003,
+        "target_fp_rate": 0.0078125,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.0024954664000688353
+    },
+    {
+        "total_size": 12664,
+        "k_size": 10000,
+        "k_prime_size": 5000,
+        "query_time": 13.403225999354618,
+        "observed_fp_rate": 0.0032,
+        "target_fp_rate": 0.0078125,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.0026806451998709234
+    },
+    {
+        "total_size": 12664,
+        "k_size": 10000,
+        "k_prime_size": 1000,
+        "query_time": 2.896752001106506,
+        "observed_fp_rate": 0.002,
+        "target_fp_rate": 0.0078125,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.002896752001106506
+    },
+    {
+        "total_size": 14467,
+        "k_size": 10000,
+        "k_prime_size": 10000,
+        "query_time": 10.515918998862617,
+        "observed_fp_rate": 0.0027,
+        "target_fp_rate": 0.00390625,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.0010515918998862616
+    },
+    {
+        "total_size": 14467,
+        "k_size": 10000,
+        "k_prime_size": 5000,
+        "query_time": 5.695276999176713,
+        "observed_fp_rate": 0.0036,
+        "target_fp_rate": 0.00390625,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.0011390553998353425
+    },
+    {
+        "total_size": 14467,
+        "k_size": 10000,
+        "k_prime_size": 1000,
+        "query_time": 0.9786729970073793,
+        "observed_fp_rate": 0.004,
+        "target_fp_rate": 0.00390625,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.0009786729970073793
+    },
+    {
+        "total_size": 14467,
+        "k_size": 10000,
+        "k_prime_size": 10000,
+        "query_time": 10.74976200106903,
+        "observed_fp_rate": 0.0054,
+        "target_fp_rate": 0.00390625,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.001074976200106903
+    },
+    {
+        "total_size": 14467,
+        "k_size": 10000,
+        "k_prime_size": 5000,
+        "query_time": 6.441420999180991,
+        "observed_fp_rate": 0.0042,
+        "target_fp_rate": 0.00390625,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.0012882841998361982
+    },
+    {
+        "total_size": 14467,
+        "k_size": 10000,
+        "k_prime_size": 1000,
+        "query_time": 1.2176070013083518,
+        "observed_fp_rate": 0.006,
+        "target_fp_rate": 0.00390625,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.0012176070013083518
+    },
+    {
+        "total_size": 14467,
+        "k_size": 10000,
+        "k_prime_size": 10000,
+        "query_time": 26.26915399741847,
+        "observed_fp_rate": 0.0015,
+        "target_fp_rate": 0.00390625,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.002626915399741847
+    },
+    {
+        "total_size": 14467,
+        "k_size": 10000,
+        "k_prime_size": 5000,
+        "query_time": 14.077399999223417,
+        "observed_fp_rate": 0.002,
+        "target_fp_rate": 0.00390625,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.0028154799998446832
+    },
+    {
+        "total_size": 14467,
+        "k_size": 10000,
+        "k_prime_size": 1000,
+        "query_time": 2.8696709996438585,
+        "observed_fp_rate": 0.002,
+        "target_fp_rate": 0.00390625,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.0028696709996438585
+    },
+    {
+        "total_size": 18074,
+        "k_size": 10000,
+        "k_prime_size": 10000,
+        "query_time": 12.914468999952078,
+        "observed_fp_rate": 0.0012,
+        "target_fp_rate": 0.0009765625,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.0012914468999952078
+    },
+    {
+        "total_size": 18074,
+        "k_size": 10000,
+        "k_prime_size": 5000,
+        "query_time": 6.136593998235185,
+        "observed_fp_rate": 0.0012,
+        "target_fp_rate": 0.0009765625,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.001227318799647037
+    },
+    {
+        "total_size": 18074,
+        "k_size": 10000,
+        "k_prime_size": 1000,
+        "query_time": 1.2422159998095594,
+        "observed_fp_rate": 0.003,
+        "target_fp_rate": 0.0009765625,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.0012422159998095594
+    },
+    {
+        "total_size": 18074,
+        "k_size": 10000,
+        "k_prime_size": 10000,
+        "query_time": 12.551381998491706,
+        "observed_fp_rate": 0.0012,
+        "target_fp_rate": 0.0009765625,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.0012551381998491707
+    },
+    {
+        "total_size": 18074,
+        "k_size": 10000,
+        "k_prime_size": 5000,
+        "query_time": 6.360619998304173,
+        "observed_fp_rate": 0.0016,
+        "target_fp_rate": 0.0009765625,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.0012721239996608346
+    },
+    {
+        "total_size": 18074,
+        "k_size": 10000,
+        "k_prime_size": 1000,
+        "query_time": 1.1508919997140765,
+        "observed_fp_rate": 0.002,
+        "target_fp_rate": 0.0009765625,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.0011508919997140765
+    },
+    {
+        "total_size": 18074,
+        "k_size": 10000,
+        "k_prime_size": 10000,
+        "query_time": 28.663865999988047,
+        "observed_fp_rate": 0.0008,
+        "target_fp_rate": 0.0009765625,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.002866386599998805
+    },
+    {
+        "total_size": 18074,
+        "k_size": 10000,
+        "k_prime_size": 5000,
+        "query_time": 15.091655997821363,
+        "observed_fp_rate": 0.0012,
+        "target_fp_rate": 0.0009765625,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.0030183311995642726
+    },
+    {
+        "total_size": 18074,
+        "k_size": 10000,
+        "k_prime_size": 1000,
+        "query_time": 3.8495749977300875,
+        "observed_fp_rate": 0.002,
+        "target_fp_rate": 0.0009765625,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.0038495749977300875
+    },
+    {
+        "total_size": 63159,
+        "k_size": 50000,
+        "k_prime_size": 50000,
+        "query_time": 65.11051899724407,
+        "observed_fp_rate": 0.00778,
+        "target_fp_rate": 0.0078125,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.0013022103799448814
+    },
+    {
+        "total_size": 63159,
+        "k_size": 50000,
+        "k_prime_size": 25000,
+        "query_time": 33.841632000985555,
+        "observed_fp_rate": 0.0082,
+        "target_fp_rate": 0.0078125,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.0013536652800394222
+    },
+    {
+        "total_size": 63159,
+        "k_size": 50000,
+        "k_prime_size": 5000,
+        "query_time": 7.169140997575596,
+        "observed_fp_rate": 0.007,
+        "target_fp_rate": 0.0078125,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.001433828199515119
+    },
+    {
+        "total_size": 63159,
+        "k_size": 50000,
+        "k_prime_size": 50000,
+        "query_time": 65.8668790019874,
+        "observed_fp_rate": 0.00714,
+        "target_fp_rate": 0.0078125,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.001317337580039748
+    },
+    {
+        "total_size": 63159,
+        "k_size": 50000,
+        "k_prime_size": 25000,
+        "query_time": 32.21930200015777,
+        "observed_fp_rate": 0.00748,
+        "target_fp_rate": 0.0078125,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.0012887720800063107
+    },
+    {
+        "total_size": 63159,
+        "k_size": 50000,
+        "k_prime_size": 5000,
+        "query_time": 6.2591099995188415,
+        "observed_fp_rate": 0.008,
+        "target_fp_rate": 0.0078125,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.0012518219999037683
+    },
+    {
+        "total_size": 63159,
+        "k_size": 50000,
+        "k_prime_size": 50000,
+        "query_time": 261.2527660021442,
+        "observed_fp_rate": 0.00374,
+        "target_fp_rate": 0.0078125,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.005225055320042884
+    },
+    {
+        "total_size": 63159,
+        "k_size": 50000,
+        "k_prime_size": 25000,
+        "query_time": 130.5957219992706,
+        "observed_fp_rate": 0.00332,
+        "target_fp_rate": 0.0078125,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.005223828879970824
+    },
+    {
+        "total_size": 63159,
+        "k_size": 50000,
+        "k_prime_size": 5000,
+        "query_time": 25.20995499799028,
+        "observed_fp_rate": 0.0024,
+        "target_fp_rate": 0.0078125,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.005041990999598056
+    },
+    {
+        "total_size": 72175,
+        "k_size": 50000,
+        "k_prime_size": 50000,
+        "query_time": 63.64470200060168,
+        "observed_fp_rate": 0.00362,
+        "target_fp_rate": 0.00390625,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.0012728940400120337
+    },
+    {
+        "total_size": 72175,
+        "k_size": 50000,
+        "k_prime_size": 25000,
+        "query_time": 32.0509659977688,
+        "observed_fp_rate": 0.00376,
+        "target_fp_rate": 0.00390625,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.0012820386399107519
+    },
+    {
+        "total_size": 72175,
+        "k_size": 50000,
+        "k_prime_size": 5000,
+        "query_time": 6.151036999654025,
+        "observed_fp_rate": 0.0034,
+        "target_fp_rate": 0.00390625,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.001230207399930805
+    },
+    {
+        "total_size": 72175,
+        "k_size": 50000,
+        "k_prime_size": 50000,
+        "query_time": 63.46096099878196,
+        "observed_fp_rate": 0.00368,
+        "target_fp_rate": 0.00390625,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.001269219219975639
+    },
+    {
+        "total_size": 72175,
+        "k_size": 50000,
+        "k_prime_size": 25000,
+        "query_time": 32.41391299889074,
+        "observed_fp_rate": 0.00388,
+        "target_fp_rate": 0.00390625,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.0012965565199556295
+    },
+    {
+        "total_size": 72175,
+        "k_size": 50000,
+        "k_prime_size": 5000,
+        "query_time": 6.577036001544911,
+        "observed_fp_rate": 0.0036,
+        "target_fp_rate": 0.00390625,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.0013154072003089823
+    },
+    {
+        "total_size": 72175,
+        "k_size": 50000,
+        "k_prime_size": 50000,
+        "query_time": 269.898963997548,
+        "observed_fp_rate": 0.00192,
+        "target_fp_rate": 0.00390625,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.00539797927995096
+    },
+    {
+        "total_size": 72175,
+        "k_size": 50000,
+        "k_prime_size": 25000,
+        "query_time": 133.91254100133665,
+        "observed_fp_rate": 0.0016,
+        "target_fp_rate": 0.00390625,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.005356501640053466
+    },
+    {
+        "total_size": 72175,
+        "k_size": 50000,
+        "k_prime_size": 5000,
+        "query_time": 24.30389200162608,
+        "observed_fp_rate": 0.0012,
+        "target_fp_rate": 0.00390625,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.004860778400325216
+    },
+    {
+        "total_size": 90209,
+        "k_size": 50000,
+        "k_prime_size": 50000,
+        "query_time": 70.61056100064889,
+        "observed_fp_rate": 0.00112,
+        "target_fp_rate": 0.0009765625,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.0014122112200129777
+    },
+    {
+        "total_size": 90209,
+        "k_size": 50000,
+        "k_prime_size": 25000,
+        "query_time": 35.31957300219801,
+        "observed_fp_rate": 0.00104,
+        "target_fp_rate": 0.0009765625,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.0014127829200879206
+    },
+    {
+        "total_size": 90209,
+        "k_size": 50000,
+        "k_prime_size": 5000,
+        "query_time": 6.944428001588676,
+        "observed_fp_rate": 0.0012,
+        "target_fp_rate": 0.0009765625,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.0013888856003177353
+    },
+    {
+        "total_size": 90209,
+        "k_size": 50000,
+        "k_prime_size": 50000,
+        "query_time": 71.18653600264224,
+        "observed_fp_rate": 0.00108,
+        "target_fp_rate": 0.0009765625,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.0014237307200528448
+    },
+    {
+        "total_size": 90209,
+        "k_size": 50000,
+        "k_prime_size": 25000,
+        "query_time": 35.423807999904966,
+        "observed_fp_rate": 0.00088,
+        "target_fp_rate": 0.0009765625,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.0014169523199961986
+    },
+    {
+        "total_size": 90209,
+        "k_size": 50000,
+        "k_prime_size": 5000,
+        "query_time": 7.173264999437379,
+        "observed_fp_rate": 0.0004,
+        "target_fp_rate": 0.0009765625,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.0014346529998874758
+    },
+    {
+        "total_size": 90209,
+        "k_size": 50000,
+        "k_prime_size": 50000,
+        "query_time": 284.5715309995285,
+        "observed_fp_rate": 0.00054,
+        "target_fp_rate": 0.0009765625,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.005691430619990569
+    },
+    {
+        "total_size": 90209,
+        "k_size": 50000,
+        "k_prime_size": 25000,
+        "query_time": 136.99497500056168,
+        "observed_fp_rate": 0.00056,
+        "target_fp_rate": 0.0009765625,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.005479799000022467
+    },
+    {
+        "total_size": 90209,
+        "k_size": 50000,
+        "k_prime_size": 5000,
+        "query_time": 29.42561500094598,
+        "observed_fp_rate": 0.0002,
+        "target_fp_rate": 0.0009765625,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.005885123000189197
+    },
+    {
+        "total_size": 126277,
+        "k_size": 100000,
+        "k_prime_size": 100000,
+        "query_time": 133.1322750011168,
+        "observed_fp_rate": 0.00725,
+        "target_fp_rate": 0.0078125,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.001331322750011168
+    },
+    {
+        "total_size": 126277,
+        "k_size": 100000,
+        "k_prime_size": 50000,
+        "query_time": 64.98331299735582,
+        "observed_fp_rate": 0.007,
+        "target_fp_rate": 0.0078125,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.0012996662599471165
+    },
+    {
+        "total_size": 126277,
+        "k_size": 100000,
+        "k_prime_size": 10000,
+        "query_time": 15.096705999894766,
+        "observed_fp_rate": 0.0088,
+        "target_fp_rate": 0.0078125,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.0015096705999894766
+    },
+    {
+        "total_size": 126277,
+        "k_size": 100000,
+        "k_prime_size": 100000,
+        "query_time": 138.21287300015683,
+        "observed_fp_rate": 0.00776,
+        "target_fp_rate": 0.0078125,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.0013821287300015684
+    },
+    {
+        "total_size": 126277,
+        "k_size": 100000,
+        "k_prime_size": 50000,
+        "query_time": 67.59535899982438,
+        "observed_fp_rate": 0.00826,
+        "target_fp_rate": 0.0078125,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.0013519071799964876
+    },
+    {
+        "total_size": 126277,
+        "k_size": 100000,
+        "k_prime_size": 10000,
+        "query_time": 12.971504002052825,
+        "observed_fp_rate": 0.008,
+        "target_fp_rate": 0.0078125,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.0012971504002052825
+    },
+    {
+        "total_size": 126277,
+        "k_size": 100000,
+        "k_prime_size": 100000,
+        "query_time": 936.7699030008225,
+        "observed_fp_rate": 0.00363,
+        "target_fp_rate": 0.0078125,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.009367699030008225
+    },
+    {
+        "total_size": 126277,
+        "k_size": 100000,
+        "k_prime_size": 50000,
+        "query_time": 476.0858730005566,
+        "observed_fp_rate": 0.00366,
+        "target_fp_rate": 0.0078125,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.009521717460011132
+    },
+    {
+        "total_size": 126277,
+        "k_size": 100000,
+        "k_prime_size": 10000,
+        "query_time": 93.49714800191578,
+        "observed_fp_rate": 0.0048,
+        "target_fp_rate": 0.0078125,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.009349714800191578
+    },
+    {
+        "total_size": 144310,
+        "k_size": 100000,
+        "k_prime_size": 100000,
+        "query_time": 129.52742600100464,
+        "observed_fp_rate": 0.00349,
+        "target_fp_rate": 0.00390625,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.0012952742600100464
+    },
+    {
+        "total_size": 144310,
+        "k_size": 100000,
+        "k_prime_size": 50000,
+        "query_time": 65.89518299733754,
+        "observed_fp_rate": 0.0034,
+        "target_fp_rate": 0.00390625,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.001317903659946751
+    },
+    {
+        "total_size": 144310,
+        "k_size": 100000,
+        "k_prime_size": 10000,
+        "query_time": 11.86944700020831,
+        "observed_fp_rate": 0.0041,
+        "target_fp_rate": 0.00390625,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.0011869447000208311
+    },
+    {
+        "total_size": 144310,
+        "k_size": 100000,
+        "k_prime_size": 100000,
+        "query_time": 127.72210299954168,
+        "observed_fp_rate": 0.00386,
+        "target_fp_rate": 0.00390625,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.0012772210299954168
+    },
+    {
+        "total_size": 144310,
+        "k_size": 100000,
+        "k_prime_size": 50000,
+        "query_time": 64.15172299966798,
+        "observed_fp_rate": 0.00382,
+        "target_fp_rate": 0.00390625,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.0012830344599933595
+    },
+    {
+        "total_size": 144310,
+        "k_size": 100000,
+        "k_prime_size": 10000,
+        "query_time": 13.178067001717864,
+        "observed_fp_rate": 0.0038,
+        "target_fp_rate": 0.00390625,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.0013178067001717864
+    },
+    {
+        "total_size": 144310,
+        "k_size": 100000,
+        "k_prime_size": 100000,
+        "query_time": 891.3832340003864,
+        "observed_fp_rate": 0.00179,
+        "target_fp_rate": 0.00390625,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.008913832340003864
+    },
+    {
+        "total_size": 144310,
+        "k_size": 100000,
+        "k_prime_size": 50000,
+        "query_time": 442.99991200023214,
+        "observed_fp_rate": 0.0019,
+        "target_fp_rate": 0.00390625,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.008859998240004642
+    },
+    {
+        "total_size": 144310,
+        "k_size": 100000,
+        "k_prime_size": 10000,
+        "query_time": 89.1195490003156,
+        "observed_fp_rate": 0.0026,
+        "target_fp_rate": 0.00390625,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.00891195490003156
+    },
+    {
+        "total_size": 180378,
+        "k_size": 100000,
+        "k_prime_size": 100000,
+        "query_time": 143.0410840002878,
+        "observed_fp_rate": 0.00084,
+        "target_fp_rate": 0.0009765625,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.001430410840002878
+    },
+    {
+        "total_size": 180378,
+        "k_size": 100000,
+        "k_prime_size": 50000,
+        "query_time": 72.76868800181546,
+        "observed_fp_rate": 0.00084,
+        "target_fp_rate": 0.0009765625,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.0014553737600363093
+    },
+    {
+        "total_size": 180378,
+        "k_size": 100000,
+        "k_prime_size": 10000,
+        "query_time": 15.040163001685869,
+        "observed_fp_rate": 0.0008,
+        "target_fp_rate": 0.0009765625,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.001504016300168587
+    },
+    {
+        "total_size": 180378,
+        "k_size": 100000,
+        "k_prime_size": 100000,
+        "query_time": 144.83171199753997,
+        "observed_fp_rate": 0.00091,
+        "target_fp_rate": 0.0009765625,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.0014483171199753996
+    },
+    {
+        "total_size": 180378,
+        "k_size": 100000,
+        "k_prime_size": 50000,
+        "query_time": 73.37780099987867,
+        "observed_fp_rate": 0.00098,
+        "target_fp_rate": 0.0009765625,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.0014675560199975735
+    },
+    {
+        "total_size": 180378,
+        "k_size": 100000,
+        "k_prime_size": 10000,
+        "query_time": 14.64946999840322,
+        "observed_fp_rate": 0.001,
+        "target_fp_rate": 0.0009765625,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.001464946999840322
+    },
+    {
+        "total_size": 180378,
+        "k_size": 100000,
+        "k_prime_size": 100000,
+        "query_time": 978.7205130014627,
+        "observed_fp_rate": 0.00053,
+        "target_fp_rate": 0.0009765625,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.009787205130014626
+    },
+    {
+        "total_size": 180378,
+        "k_size": 100000,
+        "k_prime_size": 50000,
+        "query_time": 486.4268079982139,
+        "observed_fp_rate": 0.0004,
+        "target_fp_rate": 0.0009765625,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.009728536159964279
+    },
+    {
+        "total_size": 180378,
+        "k_size": 100000,
+        "k_prime_size": 10000,
+        "query_time": 94.62753999832785,
+        "observed_fp_rate": 0.0004,
+        "target_fp_rate": 0.0009765625,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.009462753999832785
+    },
+    {
+        "total_size": 631220,
+        "k_size": 500000,
+        "k_prime_size": 500000,
+        "query_time": 985.6200879985408,
+        "observed_fp_rate": 0.007818,
+        "target_fp_rate": 0.0078125,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.0019712401759970815
+    },
+    {
+        "total_size": 631220,
+        "k_size": 500000,
+        "k_prime_size": 250000,
+        "query_time": 479.40621899761027,
+        "observed_fp_rate": 0.00756,
+        "target_fp_rate": 0.0078125,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.0019176248759904411
+    },
+    {
+        "total_size": 631220,
+        "k_size": 500000,
+        "k_prime_size": 50000,
+        "query_time": 95.11072700115619,
+        "observed_fp_rate": 0.00754,
+        "target_fp_rate": 0.0078125,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.0019022145400231238
+    },
+    {
+        "total_size": 631220,
+        "k_size": 500000,
+        "k_prime_size": 500000,
+        "query_time": 968.4067130001495,
+        "observed_fp_rate": 0.007628,
+        "target_fp_rate": 0.0078125,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.001936813426000299
+    },
+    {
+        "total_size": 631220,
+        "k_size": 500000,
+        "k_prime_size": 250000,
+        "query_time": 495.90596000052756,
+        "observed_fp_rate": 0.007636,
+        "target_fp_rate": 0.0078125,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.0019836238400021103
+    },
+    {
+        "total_size": 631220,
+        "k_size": 500000,
+        "k_prime_size": 50000,
+        "query_time": 101.22931799924118,
+        "observed_fp_rate": 0.00792,
+        "target_fp_rate": 0.0078125,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.0020245863599848233
+    },
+    {
+        "total_size": 631220,
+        "k_size": 500000,
+        "k_prime_size": 500000,
+        "query_time": 22550.873321000836,
+        "observed_fp_rate": 0.00389,
+        "target_fp_rate": 0.0078125,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.04510174664200167
+    },
+    {
+        "total_size": 631220,
+        "k_size": 500000,
+        "k_prime_size": 250000,
+        "query_time": 11221.246160999726,
+        "observed_fp_rate": 0.003844,
+        "target_fp_rate": 0.0078125,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.044884984643998906
+    },
+    {
+        "total_size": 631220,
+        "k_size": 500000,
+        "k_prime_size": 50000,
+        "query_time": 2188.836311997875,
+        "observed_fp_rate": 0.0041,
+        "target_fp_rate": 0.0078125,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.0437767262399575
+    },
+    {
+        "total_size": 721388,
+        "k_size": 500000,
+        "k_prime_size": 500000,
+        "query_time": 819.5478380002896,
+        "observed_fp_rate": 0.003988,
+        "target_fp_rate": 0.00390625,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.0016390956760005792
+    },
+    {
+        "total_size": 721388,
+        "k_size": 500000,
+        "k_prime_size": 250000,
+        "query_time": 412.6917040011904,
+        "observed_fp_rate": 0.003904,
+        "target_fp_rate": 0.00390625,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.0016507668160047615
+    },
+    {
+        "total_size": 721388,
+        "k_size": 500000,
+        "k_prime_size": 50000,
+        "query_time": 83.1349610016332,
+        "observed_fp_rate": 0.00394,
+        "target_fp_rate": 0.00390625,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.001662699220032664
+    },
+    {
+        "total_size": 721388,
+        "k_size": 500000,
+        "k_prime_size": 500000,
+        "query_time": 818.8303249989985,
+        "observed_fp_rate": 0.003714,
+        "target_fp_rate": 0.00390625,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.001637660649997997
+    },
+    {
+        "total_size": 721388,
+        "k_size": 500000,
+        "k_prime_size": 250000,
+        "query_time": 406.0897000017576,
+        "observed_fp_rate": 0.00376,
+        "target_fp_rate": 0.00390625,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.0016243588000070305
+    },
+    {
+        "total_size": 721388,
+        "k_size": 500000,
+        "k_prime_size": 50000,
+        "query_time": 79.51862499976414,
+        "observed_fp_rate": 0.00376,
+        "target_fp_rate": 0.00390625,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.0015903724999952829
+    },
+    {
+        "total_size": 721388,
+        "k_size": 500000,
+        "k_prime_size": 500000,
+        "query_time": 21816.16045499686,
+        "observed_fp_rate": 0.001932,
+        "target_fp_rate": 0.00390625,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.04363232090999372
+    },
+    {
+        "total_size": 721388,
+        "k_size": 500000,
+        "k_prime_size": 250000,
+        "query_time": 10720.839986999636,
+        "observed_fp_rate": 0.001896,
+        "target_fp_rate": 0.00390625,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.042883359947998544
+    },
+    {
+        "total_size": 721388,
+        "k_size": 500000,
+        "k_prime_size": 50000,
+        "query_time": 2115.3093229986553,
+        "observed_fp_rate": 0.00206,
+        "target_fp_rate": 0.00390625,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.042306186459973104
+    },
+    {
+        "total_size": 901725,
+        "k_size": 500000,
+        "k_prime_size": 500000,
+        "query_time": 795.2271219983231,
+        "observed_fp_rate": 0.000934,
+        "target_fp_rate": 0.0009765625,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.0015904542439966463
+    },
+    {
+        "total_size": 901725,
+        "k_size": 500000,
+        "k_prime_size": 250000,
+        "query_time": 396.56802600075025,
+        "observed_fp_rate": 0.0009,
+        "target_fp_rate": 0.0009765625,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.001586272104003001
+    },
+    {
+        "total_size": 901725,
+        "k_size": 500000,
+        "k_prime_size": 50000,
+        "query_time": 78.28741100092884,
+        "observed_fp_rate": 0.001,
+        "target_fp_rate": 0.0009765625,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.0015657482200185768
+    },
+    {
+        "total_size": 901725,
+        "k_size": 500000,
+        "k_prime_size": 500000,
+        "query_time": 776.6490959984367,
+        "observed_fp_rate": 0.000926,
+        "target_fp_rate": 0.0009765625,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.0015532981919968733
+    },
+    {
+        "total_size": 901725,
+        "k_size": 500000,
+        "k_prime_size": 250000,
+        "query_time": 387.8999799999292,
+        "observed_fp_rate": 0.00096,
+        "target_fp_rate": 0.0009765625,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.001551599919999717
+    },
+    {
+        "total_size": 901725,
+        "k_size": 500000,
+        "k_prime_size": 50000,
+        "query_time": 77.77599800101598,
+        "observed_fp_rate": 0.001,
+        "target_fp_rate": 0.0009765625,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.0015555199600203195
+    },
+    {
+        "total_size": 901725,
+        "k_size": 500000,
+        "k_prime_size": 500000,
+        "query_time": 21751.826129999245,
+        "observed_fp_rate": 0.000434,
+        "target_fp_rate": 0.0009765625,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.04350365225999849
+    },
+    {
+        "total_size": 901725,
+        "k_size": 500000,
+        "k_prime_size": 250000,
+        "query_time": 10700.167410999711,
+        "observed_fp_rate": 0.000412,
+        "target_fp_rate": 0.0009765625,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.04280066964399885
+    },
+    {
+        "total_size": 901725,
+        "k_size": 500000,
+        "k_prime_size": 50000,
+        "query_time": 2088.296068002819,
+        "observed_fp_rate": 0.00036,
+        "target_fp_rate": 0.0009765625,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.041765921360056385
+    }
+]

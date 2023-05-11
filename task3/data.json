@@ -1,0 +1,1352 @@
+[
+    {
+        "total_size": 2663,
+        "k_size": 1000,
+        "k_prime_size": 1000,
+        "query_time": 4.104018000361975,
+        "observed_fp_rate": 0.006,
+        "num_bits": 7,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.004104018000361975
+    },
+    {
+        "total_size": 2663,
+        "k_size": 1000,
+        "k_prime_size": 500,
+        "query_time": 1.1967130012635607,
+        "observed_fp_rate": 0.006,
+        "num_bits": 7,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.0023934260025271215
+    },
+    {
+        "total_size": 2663,
+        "k_size": 1000,
+        "k_prime_size": 100,
+        "query_time": 0.2614090008137282,
+        "observed_fp_rate": 0.01,
+        "num_bits": 7,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.002614090008137282
+    },
+    {
+        "total_size": 2663,
+        "k_size": 1000,
+        "k_prime_size": 1000,
+        "query_time": 2.37484100216534,
+        "observed_fp_rate": 0.008,
+        "num_bits": 7,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.00237484100216534
+    },
+    {
+        "total_size": 2663,
+        "k_size": 1000,
+        "k_prime_size": 500,
+        "query_time": 1.250350000191247,
+        "observed_fp_rate": 0.012,
+        "num_bits": 7,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.002500700000382494
+    },
+    {
+        "total_size": 2663,
+        "k_size": 1000,
+        "k_prime_size": 100,
+        "query_time": 0.2864599991880823,
+        "observed_fp_rate": 0.02,
+        "num_bits": 7,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.002864599991880823
+    },
+    {
+        "total_size": 2663,
+        "k_size": 1000,
+        "k_prime_size": 1000,
+        "query_time": 11.004269999830285,
+        "observed_fp_rate": 0.0,
+        "num_bits": 7,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.011004269999830285
+    },
+    {
+        "total_size": 2663,
+        "k_size": 1000,
+        "k_prime_size": 500,
+        "query_time": 6.5339899992977735,
+        "observed_fp_rate": 0.0,
+        "num_bits": 7,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.013067979998595547
+    },
+    {
+        "total_size": 2663,
+        "k_size": 1000,
+        "k_prime_size": 100,
+        "query_time": 1.3028800021857023,
+        "observed_fp_rate": 0.0,
+        "num_bits": 7,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.013028800021857023
+    },
+    {
+        "total_size": 2788,
+        "k_size": 1000,
+        "k_prime_size": 1000,
+        "query_time": 1.8125949973182287,
+        "observed_fp_rate": 0.001,
+        "num_bits": 8,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.0018125949973182287
+    },
+    {
+        "total_size": 2788,
+        "k_size": 1000,
+        "k_prime_size": 500,
+        "query_time": 0.8347990005859174,
+        "observed_fp_rate": 0.0,
+        "num_bits": 8,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.0016695980011718348
+    },
+    {
+        "total_size": 2788,
+        "k_size": 1000,
+        "k_prime_size": 100,
+        "query_time": 0.1737569982651621,
+        "observed_fp_rate": 0.0,
+        "num_bits": 8,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.001737569982651621
+    },
+    {
+        "total_size": 2788,
+        "k_size": 1000,
+        "k_prime_size": 1000,
+        "query_time": 1.7727409976942,
+        "observed_fp_rate": 0.006,
+        "num_bits": 8,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.0017727409976942
+    },
+    {
+        "total_size": 2788,
+        "k_size": 1000,
+        "k_prime_size": 500,
+        "query_time": 0.8961180028563831,
+        "observed_fp_rate": 0.008,
+        "num_bits": 8,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.0017922360057127662
+    },
+    {
+        "total_size": 2788,
+        "k_size": 1000,
+        "k_prime_size": 100,
+        "query_time": 0.19566699847928248,
+        "observed_fp_rate": 0.02,
+        "num_bits": 8,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.001956669984792825
+    },
+    {
+        "total_size": 2788,
+        "k_size": 1000,
+        "k_prime_size": 1000,
+        "query_time": 6.285874998866348,
+        "observed_fp_rate": 0.0,
+        "num_bits": 8,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.006285874998866348
+    },
+    {
+        "total_size": 2788,
+        "k_size": 1000,
+        "k_prime_size": 500,
+        "query_time": 2.595342000859091,
+        "observed_fp_rate": 0.0,
+        "num_bits": 8,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.005190684001718182
+    },
+    {
+        "total_size": 2788,
+        "k_size": 1000,
+        "k_prime_size": 100,
+        "query_time": 0.5313669971656054,
+        "observed_fp_rate": 0.0,
+        "num_bits": 8,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.005313669971656054
+    },
+    {
+        "total_size": 3038,
+        "k_size": 1000,
+        "k_prime_size": 1000,
+        "query_time": 1.1828329988929909,
+        "observed_fp_rate": 0.0,
+        "num_bits": 10,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.0011828329988929909
+    },
+    {
+        "total_size": 3038,
+        "k_size": 1000,
+        "k_prime_size": 500,
+        "query_time": 0.5757999970228411,
+        "observed_fp_rate": 0.0,
+        "num_bits": 10,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.0011515999940456823
+    },
+    {
+        "total_size": 3038,
+        "k_size": 1000,
+        "k_prime_size": 100,
+        "query_time": 0.1196590019389987,
+        "observed_fp_rate": 0.0,
+        "num_bits": 10,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.001196590019389987
+    },
+    {
+        "total_size": 3038,
+        "k_size": 1000,
+        "k_prime_size": 1000,
+        "query_time": 1.2305510026635602,
+        "observed_fp_rate": 0.003,
+        "num_bits": 10,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.0012305510026635602
+    },
+    {
+        "total_size": 3038,
+        "k_size": 1000,
+        "k_prime_size": 500,
+        "query_time": 0.588380000408506,
+        "observed_fp_rate": 0.004,
+        "num_bits": 10,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.001176760000817012
+    },
+    {
+        "total_size": 3038,
+        "k_size": 1000,
+        "k_prime_size": 100,
+        "query_time": 0.11920199904125184,
+        "observed_fp_rate": 0.0,
+        "num_bits": 10,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.0011920199904125184
+    },
+    {
+        "total_size": 3038,
+        "k_size": 1000,
+        "k_prime_size": 1000,
+        "query_time": 4.590343000018038,
+        "observed_fp_rate": 0.0,
+        "num_bits": 10,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.004590343000018038
+    },
+    {
+        "total_size": 3038,
+        "k_size": 1000,
+        "k_prime_size": 500,
+        "query_time": 2.495864999218611,
+        "observed_fp_rate": 0.0,
+        "num_bits": 10,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.004991729998437222
+    },
+    {
+        "total_size": 3038,
+        "k_size": 1000,
+        "k_prime_size": 100,
+        "query_time": 0.5422060021373909,
+        "observed_fp_rate": 0.0,
+        "num_bits": 10,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.005422060021373909
+    },
+    {
+        "total_size": 15818,
+        "k_size": 10000,
+        "k_prime_size": 10000,
+        "query_time": 18.205185999249807,
+        "observed_fp_rate": 0.0058,
+        "num_bits": 7,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.0018205185999249807
+    },
+    {
+        "total_size": 15818,
+        "k_size": 10000,
+        "k_prime_size": 5000,
+        "query_time": 7.6408550012274645,
+        "observed_fp_rate": 0.0046,
+        "num_bits": 7,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.001528171000245493
+    },
+    {
+        "total_size": 15818,
+        "k_size": 10000,
+        "k_prime_size": 1000,
+        "query_time": 1.8218660006823484,
+        "observed_fp_rate": 0.008,
+        "num_bits": 7,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.0018218660006823484
+    },
+    {
+        "total_size": 15818,
+        "k_size": 10000,
+        "k_prime_size": 10000,
+        "query_time": 18.245969000417972,
+        "observed_fp_rate": 0.0062,
+        "num_bits": 7,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.0018245969000417971
+    },
+    {
+        "total_size": 15818,
+        "k_size": 10000,
+        "k_prime_size": 5000,
+        "query_time": 9.192503999656765,
+        "observed_fp_rate": 0.0054,
+        "num_bits": 7,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.001838500799931353
+    },
+    {
+        "total_size": 15818,
+        "k_size": 10000,
+        "k_prime_size": 1000,
+        "query_time": 1.9342590021551587,
+        "observed_fp_rate": 0.007,
+        "num_bits": 7,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.0019342590021551587
+    },
+    {
+        "total_size": 15818,
+        "k_size": 10000,
+        "k_prime_size": 10000,
+        "query_time": 301.8645699994522,
+        "observed_fp_rate": 0.0034,
+        "num_bits": 7,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.03018645699994522
+    },
+    {
+        "total_size": 15818,
+        "k_size": 10000,
+        "k_prime_size": 5000,
+        "query_time": 172.7715779998107,
+        "observed_fp_rate": 0.0028,
+        "num_bits": 7,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.03455431559996214
+    },
+    {
+        "total_size": 15818,
+        "k_size": 10000,
+        "k_prime_size": 1000,
+        "query_time": 37.26229400126613,
+        "observed_fp_rate": 0.002,
+        "num_bits": 7,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.03726229400126613
+    },
+    {
+        "total_size": 17068,
+        "k_size": 10000,
+        "k_prime_size": 10000,
+        "query_time": 13.154325999494176,
+        "observed_fp_rate": 0.0028,
+        "num_bits": 8,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.0013154325999494177
+    },
+    {
+        "total_size": 17068,
+        "k_size": 10000,
+        "k_prime_size": 5000,
+        "query_time": 6.304747999820393,
+        "observed_fp_rate": 0.002,
+        "num_bits": 8,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.0012609495999640786
+    },
+    {
+        "total_size": 17068,
+        "k_size": 10000,
+        "k_prime_size": 1000,
+        "query_time": 1.487027999246493,
+        "observed_fp_rate": 0.005,
+        "num_bits": 8,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.001487027999246493
+    },
+    {
+        "total_size": 17068,
+        "k_size": 10000,
+        "k_prime_size": 10000,
+        "query_time": 13.98514399988926,
+        "observed_fp_rate": 0.0039,
+        "num_bits": 8,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.001398514399988926
+    },
+    {
+        "total_size": 17068,
+        "k_size": 10000,
+        "k_prime_size": 5000,
+        "query_time": 6.869524997455301,
+        "observed_fp_rate": 0.0036,
+        "num_bits": 8,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.0013739049994910602
+    },
+    {
+        "total_size": 17068,
+        "k_size": 10000,
+        "k_prime_size": 1000,
+        "query_time": 1.4863229989714455,
+        "observed_fp_rate": 0.005,
+        "num_bits": 8,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.0014863229989714455
+    },
+    {
+        "total_size": 17068,
+        "k_size": 10000,
+        "k_prime_size": 10000,
+        "query_time": 290.11364499820047,
+        "observed_fp_rate": 0.0019,
+        "num_bits": 8,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.029011364499820048
+    },
+    {
+        "total_size": 17068,
+        "k_size": 10000,
+        "k_prime_size": 5000,
+        "query_time": 172.319076002168,
+        "observed_fp_rate": 0.0016,
+        "num_bits": 8,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.0344638152004336
+    },
+    {
+        "total_size": 17068,
+        "k_size": 10000,
+        "k_prime_size": 1000,
+        "query_time": 37.60914099984802,
+        "observed_fp_rate": 0.002,
+        "num_bits": 8,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.03760914099984802
+    },
+    {
+        "total_size": 19568,
+        "k_size": 10000,
+        "k_prime_size": 10000,
+        "query_time": 12.09671300239279,
+        "observed_fp_rate": 0.0002,
+        "num_bits": 10,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.001209671300239279
+    },
+    {
+        "total_size": 19568,
+        "k_size": 10000,
+        "k_prime_size": 5000,
+        "query_time": 6.590776003577048,
+        "observed_fp_rate": 0.0004,
+        "num_bits": 10,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.0013181552007154097
+    },
+    {
+        "total_size": 19568,
+        "k_size": 10000,
+        "k_prime_size": 1000,
+        "query_time": 1.333745000010822,
+        "observed_fp_rate": 0.001,
+        "num_bits": 10,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.001333745000010822
+    },
+    {
+        "total_size": 19568,
+        "k_size": 10000,
+        "k_prime_size": 10000,
+        "query_time": 13.900043999456102,
+        "observed_fp_rate": 0.001,
+        "num_bits": 10,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.0013900043999456103
+    },
+    {
+        "total_size": 19568,
+        "k_size": 10000,
+        "k_prime_size": 5000,
+        "query_time": 6.143023001641268,
+        "observed_fp_rate": 0.0008,
+        "num_bits": 10,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.0012286046003282536
+    },
+    {
+        "total_size": 19568,
+        "k_size": 10000,
+        "k_prime_size": 1000,
+        "query_time": 1.42971400055103,
+        "observed_fp_rate": 0.001,
+        "num_bits": 10,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.00142971400055103
+    },
+    {
+        "total_size": 19568,
+        "k_size": 10000,
+        "k_prime_size": 10000,
+        "query_time": 295.6196240011195,
+        "observed_fp_rate": 0.0006,
+        "num_bits": 10,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.02956196240011195
+    },
+    {
+        "total_size": 19568,
+        "k_size": 10000,
+        "k_prime_size": 5000,
+        "query_time": 171.42963299920666,
+        "observed_fp_rate": 0.0008,
+        "num_bits": 10,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.03428592659984133
+    },
+    {
+        "total_size": 19568,
+        "k_size": 10000,
+        "k_prime_size": 1000,
+        "query_time": 36.34687299927464,
+        "observed_fp_rate": 0.0,
+        "num_bits": 10,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.03634687299927464
+    },
+    {
+        "total_size": 74386,
+        "k_size": 50000,
+        "k_prime_size": 50000,
+        "query_time": 192.03981700047734,
+        "observed_fp_rate": 0.00656,
+        "num_bits": 7,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.003840796340009547
+    },
+    {
+        "total_size": 74386,
+        "k_size": 50000,
+        "k_prime_size": 25000,
+        "query_time": 95.48590600024909,
+        "observed_fp_rate": 0.00668,
+        "num_bits": 7,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.0038194362400099636
+    },
+    {
+        "total_size": 74386,
+        "k_size": 50000,
+        "k_prime_size": 5000,
+        "query_time": 16.658745000313502,
+        "observed_fp_rate": 0.005,
+        "num_bits": 7,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.0033317490000627004
+    },
+    {
+        "total_size": 74386,
+        "k_size": 50000,
+        "k_prime_size": 50000,
+        "query_time": 185.31317800079705,
+        "observed_fp_rate": 0.00626,
+        "num_bits": 7,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.003706263560015941
+    },
+    {
+        "total_size": 74386,
+        "k_size": 50000,
+        "k_prime_size": 25000,
+        "query_time": 99.08730199822458,
+        "observed_fp_rate": 0.0068,
+        "num_bits": 7,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.003963492079928983
+    },
+    {
+        "total_size": 74386,
+        "k_size": 50000,
+        "k_prime_size": 5000,
+        "query_time": 22.722929999872576,
+        "observed_fp_rate": 0.0078,
+        "num_bits": 7,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.004544585999974515
+    },
+    {
+        "total_size": 74386,
+        "k_size": 50000,
+        "k_prime_size": 50000,
+        "query_time": 7168.3208430004015,
+        "observed_fp_rate": 0.00322,
+        "num_bits": 7,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.14336641686000803
+    },
+    {
+        "total_size": 74386,
+        "k_size": 50000,
+        "k_prime_size": 25000,
+        "query_time": 4225.657189002959,
+        "observed_fp_rate": 0.0034,
+        "num_bits": 7,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.16902628756011837
+    },
+    {
+        "total_size": 74386,
+        "k_size": 50000,
+        "k_prime_size": 5000,
+        "query_time": 927.8807480004616,
+        "observed_fp_rate": 0.0042,
+        "num_bits": 7,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.18557614960009233
+    },
+    {
+        "total_size": 80636,
+        "k_size": 50000,
+        "k_prime_size": 50000,
+        "query_time": 130.39999600005103,
+        "observed_fp_rate": 0.00348,
+        "num_bits": 8,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.002607999920001021
+    },
+    {
+        "total_size": 80636,
+        "k_size": 50000,
+        "k_prime_size": 25000,
+        "query_time": 67.20956899880548,
+        "observed_fp_rate": 0.00344,
+        "num_bits": 8,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.0026883827599522192
+    },
+    {
+        "total_size": 80636,
+        "k_size": 50000,
+        "k_prime_size": 5000,
+        "query_time": 10.009374000219395,
+        "observed_fp_rate": 0.002,
+        "num_bits": 8,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.002001874800043879
+    },
+    {
+        "total_size": 80636,
+        "k_size": 50000,
+        "k_prime_size": 50000,
+        "query_time": 126.8688119998842,
+        "observed_fp_rate": 0.00328,
+        "num_bits": 8,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.002537376239997684
+    },
+    {
+        "total_size": 80636,
+        "k_size": 50000,
+        "k_prime_size": 25000,
+        "query_time": 65.05400800233474,
+        "observed_fp_rate": 0.00376,
+        "num_bits": 8,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.00260216032009339
+    },
+    {
+        "total_size": 80636,
+        "k_size": 50000,
+        "k_prime_size": 5000,
+        "query_time": 14.058933000342222,
+        "observed_fp_rate": 0.0042,
+        "num_bits": 8,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.0028117866000684443
+    },
+    {
+        "total_size": 80636,
+        "k_size": 50000,
+        "k_prime_size": 50000,
+        "query_time": 7349.835527998948,
+        "observed_fp_rate": 0.00156,
+        "num_bits": 8,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.14699671055997895
+    },
+    {
+        "total_size": 80636,
+        "k_size": 50000,
+        "k_prime_size": 25000,
+        "query_time": 4325.155515001825,
+        "observed_fp_rate": 0.00172,
+        "num_bits": 8,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.17300622060007298
+    },
+    {
+        "total_size": 80636,
+        "k_size": 50000,
+        "k_prime_size": 5000,
+        "query_time": 963.7680060004641,
+        "observed_fp_rate": 0.002,
+        "num_bits": 8,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.19275360120009283
+    },
+    {
+        "total_size": 93136,
+        "k_size": 50000,
+        "k_prime_size": 50000,
+        "query_time": 89.55417600009241,
+        "observed_fp_rate": 0.00084,
+        "num_bits": 10,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.0017910835200018482
+    },
+    {
+        "total_size": 93136,
+        "k_size": 50000,
+        "k_prime_size": 25000,
+        "query_time": 46.72222000226611,
+        "observed_fp_rate": 0.00084,
+        "num_bits": 10,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.0018688888000906445
+    },
+    {
+        "total_size": 93136,
+        "k_size": 50000,
+        "k_prime_size": 5000,
+        "query_time": 8.916375001717824,
+        "observed_fp_rate": 0.0004,
+        "num_bits": 10,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.001783275000343565
+    },
+    {
+        "total_size": 93136,
+        "k_size": 50000,
+        "k_prime_size": 50000,
+        "query_time": 88.54117100054282,
+        "observed_fp_rate": 0.00088,
+        "num_bits": 10,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.0017708234200108563
+    },
+    {
+        "total_size": 93136,
+        "k_size": 50000,
+        "k_prime_size": 25000,
+        "query_time": 46.860688999004196,
+        "observed_fp_rate": 0.001,
+        "num_bits": 10,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.0018744275599601678
+    },
+    {
+        "total_size": 93136,
+        "k_size": 50000,
+        "k_prime_size": 5000,
+        "query_time": 10.12215499940794,
+        "observed_fp_rate": 0.0014,
+        "num_bits": 10,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.002024430999881588
+    },
+    {
+        "total_size": 93136,
+        "k_size": 50000,
+        "k_prime_size": 50000,
+        "query_time": 7369.998008001858,
+        "observed_fp_rate": 0.00038,
+        "num_bits": 10,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.14739996016003715
+    },
+    {
+        "total_size": 93136,
+        "k_size": 50000,
+        "k_prime_size": 25000,
+        "query_time": 4281.125080000493,
+        "observed_fp_rate": 0.0004,
+        "num_bits": 10,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.1712450032000197
+    },
+    {
+        "total_size": 93136,
+        "k_size": 50000,
+        "k_prime_size": 5000,
+        "query_time": 946.934281000722,
+        "observed_fp_rate": 0.0006,
+        "num_bits": 10,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.1893868562001444
+    },
+    {
+        "total_size": 147560,
+        "k_size": 100000,
+        "k_prime_size": 100000,
+        "query_time": 705.3456240028027,
+        "observed_fp_rate": 0.0072,
+        "num_bits": 7,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.007053456240028027
+    },
+    {
+        "total_size": 147560,
+        "k_size": 100000,
+        "k_prime_size": 50000,
+        "query_time": 359.2777650010248,
+        "observed_fp_rate": 0.00722,
+        "num_bits": 7,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.007185555300020496
+    },
+    {
+        "total_size": 147560,
+        "k_size": 100000,
+        "k_prime_size": 10000,
+        "query_time": 57.26696299825562,
+        "observed_fp_rate": 0.0055,
+        "num_bits": 7,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.005726696299825562
+    },
+    {
+        "total_size": 147560,
+        "k_size": 100000,
+        "k_prime_size": 100000,
+        "query_time": 655.4549430002226,
+        "observed_fp_rate": 0.00663,
+        "num_bits": 7,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.0065545494300022255
+    },
+    {
+        "total_size": 147560,
+        "k_size": 100000,
+        "k_prime_size": 50000,
+        "query_time": 323.05600899780984,
+        "observed_fp_rate": 0.00664,
+        "num_bits": 7,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.0064611201799561965
+    },
+    {
+        "total_size": 147560,
+        "k_size": 100000,
+        "k_prime_size": 10000,
+        "query_time": 66.65009899734287,
+        "observed_fp_rate": 0.0069,
+        "num_bits": 7,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.006665009899734287
+    },
+    {
+        "total_size": 147560,
+        "k_size": 100000,
+        "k_prime_size": 100000,
+        "query_time": 29312.942628999735,
+        "observed_fp_rate": 0.00321,
+        "num_bits": 7,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.29312942628999733
+    },
+    {
+        "total_size": 147560,
+        "k_size": 100000,
+        "k_prime_size": 50000,
+        "query_time": 16922.795283997402,
+        "observed_fp_rate": 0.0033,
+        "num_bits": 7,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.33845590567994804
+    },
+    {
+        "total_size": 147560,
+        "k_size": 100000,
+        "k_prime_size": 10000,
+        "query_time": 3772.61130700208,
+        "observed_fp_rate": 0.0044,
+        "num_bits": 7,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.377261130700208
+    },
+    {
+        "total_size": 160060,
+        "k_size": 100000,
+        "k_prime_size": 100000,
+        "query_time": 396.05432199823554,
+        "observed_fp_rate": 0.00354,
+        "num_bits": 8,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.003960543219982356
+    },
+    {
+        "total_size": 160060,
+        "k_size": 100000,
+        "k_prime_size": 50000,
+        "query_time": 206.096878999233,
+        "observed_fp_rate": 0.00378,
+        "num_bits": 8,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.00412193757998466
+    },
+    {
+        "total_size": 160060,
+        "k_size": 100000,
+        "k_prime_size": 10000,
+        "query_time": 31.78014299919596,
+        "observed_fp_rate": 0.0024,
+        "num_bits": 8,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.003178014299919596
+    },
+    {
+        "total_size": 160060,
+        "k_size": 100000,
+        "k_prime_size": 100000,
+        "query_time": 374.5974440025748,
+        "observed_fp_rate": 0.00338,
+        "num_bits": 8,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.0037459744400257476
+    },
+    {
+        "total_size": 160060,
+        "k_size": 100000,
+        "k_prime_size": 50000,
+        "query_time": 189.49703100224724,
+        "observed_fp_rate": 0.00336,
+        "num_bits": 8,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.003789940620044945
+    },
+    {
+        "total_size": 160060,
+        "k_size": 100000,
+        "k_prime_size": 10000,
+        "query_time": 39.21709999849554,
+        "observed_fp_rate": 0.0033,
+        "num_bits": 8,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.0039217099998495545
+    },
+    {
+        "total_size": 160060,
+        "k_size": 100000,
+        "k_prime_size": 100000,
+        "query_time": 28509.263146002922,
+        "observed_fp_rate": 0.00163,
+        "num_bits": 8,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.2850926314600292
+    },
+    {
+        "total_size": 160060,
+        "k_size": 100000,
+        "k_prime_size": 50000,
+        "query_time": 16437.91469200005,
+        "observed_fp_rate": 0.00164,
+        "num_bits": 8,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.328758293840001
+    },
+    {
+        "total_size": 160060,
+        "k_size": 100000,
+        "k_prime_size": 10000,
+        "query_time": 3742.9323159994965,
+        "observed_fp_rate": 0.0023,
+        "num_bits": 8,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.37429323159994965
+    },
+    {
+        "total_size": 185060,
+        "k_size": 100000,
+        "k_prime_size": 100000,
+        "query_time": 211.32069600207615,
+        "observed_fp_rate": 0.00085,
+        "num_bits": 10,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.0021132069600207615
+    },
+    {
+        "total_size": 185060,
+        "k_size": 100000,
+        "k_prime_size": 50000,
+        "query_time": 115.0507970014587,
+        "observed_fp_rate": 0.00092,
+        "num_bits": 10,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.0023010159400291743
+    },
+    {
+        "total_size": 185060,
+        "k_size": 100000,
+        "k_prime_size": 10000,
+        "query_time": 20.795369000552455,
+        "observed_fp_rate": 0.0006,
+        "num_bits": 10,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.0020795369000552455
+    },
+    {
+        "total_size": 185060,
+        "k_size": 100000,
+        "k_prime_size": 100000,
+        "query_time": 213.54566199806868,
+        "observed_fp_rate": 0.00076,
+        "num_bits": 10,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.002135456619980687
+    },
+    {
+        "total_size": 185060,
+        "k_size": 100000,
+        "k_prime_size": 50000,
+        "query_time": 107.15989000163972,
+        "observed_fp_rate": 0.0008,
+        "num_bits": 10,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.0021431978000327947
+    },
+    {
+        "total_size": 185060,
+        "k_size": 100000,
+        "k_prime_size": 10000,
+        "query_time": 23.50434599793516,
+        "observed_fp_rate": 0.0009,
+        "num_bits": 10,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.0023504345997935163
+    },
+    {
+        "total_size": 185060,
+        "k_size": 100000,
+        "k_prime_size": 100000,
+        "query_time": 28306.105494000803,
+        "observed_fp_rate": 0.00049,
+        "num_bits": 10,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.28306105494000805
+    },
+    {
+        "total_size": 185060,
+        "k_size": 100000,
+        "k_prime_size": 50000,
+        "query_time": 16620.84535300164,
+        "observed_fp_rate": 0.0005,
+        "num_bits": 10,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.33241690706003285
+    },
+    {
+        "total_size": 185060,
+        "k_size": 100000,
+        "k_prime_size": 10000,
+        "query_time": 3726.54863400021,
+        "observed_fp_rate": 0.0007,
+        "num_bits": 10,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 0.37265486340002096
+    },
+    {
+        "total_size": 733048,
+        "k_size": 500000,
+        "k_prime_size": 500000,
+        "query_time": 14382.565156000055,
+        "observed_fp_rate": 0.006988,
+        "num_bits": 7,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.02876513031200011
+    },
+    {
+        "total_size": 733048,
+        "k_size": 500000,
+        "k_prime_size": 250000,
+        "query_time": 7078.612443001475,
+        "observed_fp_rate": 0.006964,
+        "num_bits": 7,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.028314449772005902
+    },
+    {
+        "total_size": 733048,
+        "k_size": 500000,
+        "k_prime_size": 50000,
+        "query_time": 1469.656909997866,
+        "observed_fp_rate": 0.0073,
+        "num_bits": 7,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.02939313819995732
+    },
+    {
+        "total_size": 733048,
+        "k_size": 500000,
+        "k_prime_size": 500000,
+        "query_time": 14269.509968999046,
+        "observed_fp_rate": 0.007094,
+        "num_bits": 7,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.02853901993799809
+    },
+    {
+        "total_size": 733048,
+        "k_size": 500000,
+        "k_prime_size": 250000,
+        "query_time": 7336.47720999943,
+        "observed_fp_rate": 0.007264,
+        "num_bits": 7,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.029345908839997718
+    },
+    {
+        "total_size": 733048,
+        "k_size": 500000,
+        "k_prime_size": 50000,
+        "query_time": 1452.4383819989453,
+        "observed_fp_rate": 0.00716,
+        "num_bits": 7,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.029048767639978906
+    },
+    {
+        "total_size": 733048,
+        "k_size": 500000,
+        "k_prime_size": 500000,
+        "query_time": 791516.7287329969,
+        "observed_fp_rate": 0.003524,
+        "num_bits": 7,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 1.5830334574659937
+    },
+    {
+        "total_size": 733048,
+        "k_size": 500000,
+        "k_prime_size": 250000,
+        "query_time": 532111.1539670019,
+        "observed_fp_rate": 0.003644,
+        "num_bits": 7,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 2.1284446158680077
+    },
+    {
+        "total_size": 733048,
+        "k_size": 500000,
+        "k_prime_size": 50000,
+        "query_time": 122187.8657060006,
+        "observed_fp_rate": 0.0034,
+        "num_bits": 7,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 2.443757314120012
+    },
+    {
+        "total_size": 795548,
+        "k_size": 500000,
+        "k_prime_size": 500000,
+        "query_time": 8979.342378999718,
+        "observed_fp_rate": 0.003398,
+        "num_bits": 8,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.017958684757999437
+    },
+    {
+        "total_size": 795548,
+        "k_size": 500000,
+        "k_prime_size": 250000,
+        "query_time": 4446.062700000766,
+        "observed_fp_rate": 0.003384,
+        "num_bits": 8,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.017784250800003065
+    },
+    {
+        "total_size": 795548,
+        "k_size": 500000,
+        "k_prime_size": 50000,
+        "query_time": 939.0631999995094,
+        "observed_fp_rate": 0.00358,
+        "num_bits": 8,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.018781263999990187
+    },
+    {
+        "total_size": 795548,
+        "k_size": 500000,
+        "k_prime_size": 500000,
+        "query_time": 9048.755522002466,
+        "observed_fp_rate": 0.00365,
+        "num_bits": 8,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.018097511044004932
+    },
+    {
+        "total_size": 795548,
+        "k_size": 500000,
+        "k_prime_size": 250000,
+        "query_time": 4917.8427170008945,
+        "observed_fp_rate": 0.003788,
+        "num_bits": 8,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.01967137086800358
+    },
+    {
+        "total_size": 795548,
+        "k_size": 500000,
+        "k_prime_size": 50000,
+        "query_time": 1086.5574110030138,
+        "observed_fp_rate": 0.00374,
+        "num_bits": 8,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.021731148220060278
+    },
+    {
+        "total_size": 795548,
+        "k_size": 500000,
+        "k_prime_size": 500000,
+        "query_time": 912143.5807750023,
+        "observed_fp_rate": 0.001798,
+        "num_bits": 8,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 1.8242871615500045
+    },
+    {
+        "total_size": 795548,
+        "k_size": 500000,
+        "k_prime_size": 250000,
+        "query_time": 465969.19994899875,
+        "observed_fp_rate": 0.001928,
+        "num_bits": 8,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 1.863876799795995
+    },
+    {
+        "total_size": 795548,
+        "k_size": 500000,
+        "k_prime_size": 50000,
+        "query_time": 105345.4044329992,
+        "observed_fp_rate": 0.00178,
+        "num_bits": 8,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 2.106908088659984
+    },
+    {
+        "total_size": 920548,
+        "k_size": 500000,
+        "k_prime_size": 500000,
+        "query_time": 2879.113093997148,
+        "observed_fp_rate": 0.000874,
+        "num_bits": 10,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.005758226187994296
+    },
+    {
+        "total_size": 920548,
+        "k_size": 500000,
+        "k_prime_size": 250000,
+        "query_time": 1417.04014899733,
+        "observed_fp_rate": 0.00086,
+        "num_bits": 10,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.005668160595989321
+    },
+    {
+        "total_size": 920548,
+        "k_size": 500000,
+        "k_prime_size": 50000,
+        "query_time": 319.6848740008136,
+        "observed_fp_rate": 0.00092,
+        "num_bits": 10,
+        "proportion_of_same": 0.1,
+        "query_time_per_key": 0.006393697480016272
+    },
+    {
+        "total_size": 920548,
+        "k_size": 500000,
+        "k_prime_size": 500000,
+        "query_time": 2962.8131259996735,
+        "observed_fp_rate": 0.00094,
+        "num_bits": 10,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.005925626251999347
+    },
+    {
+        "total_size": 920548,
+        "k_size": 500000,
+        "k_prime_size": 250000,
+        "query_time": 1535.5247560000862,
+        "observed_fp_rate": 0.000968,
+        "num_bits": 10,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.006142099024000345
+    },
+    {
+        "total_size": 920548,
+        "k_size": 500000,
+        "k_prime_size": 50000,
+        "query_time": 314.1455959994346,
+        "observed_fp_rate": 0.001,
+        "num_bits": 10,
+        "proportion_of_same": 0.25,
+        "query_time_per_key": 0.0062829119199886915
+    },
+    {
+        "total_size": 920548,
+        "k_size": 500000,
+        "k_prime_size": 500000,
+        "query_time": 827563.6774609993,
+        "observed_fp_rate": 0.000436,
+        "num_bits": 10,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 1.6551273549219987
+    },
+    {
+        "total_size": 920548,
+        "k_size": 500000,
+        "k_prime_size": 250000,
+        "query_time": 487432.48481299815,
+        "observed_fp_rate": 0.0005,
+        "num_bits": 10,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 1.9497299392519927
+    },
+    {
+        "total_size": 920548,
+        "k_size": 500000,
+        "k_prime_size": 50000,
+        "query_time": 103312.58051899931,
+        "observed_fp_rate": 0.00036,
+        "num_bits": 10,
+        "proportion_of_same": 0.5,
+        "query_time_per_key": 2.0662516103799864
+    }
+]
