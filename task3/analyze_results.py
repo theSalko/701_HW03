@@ -21,65 +21,68 @@ with open("data.json", "r") as infile:
 
 
 k_1000_res = []
-fp_007_ps_1 = []
+ps_1 = []
 for d in data:
     if d["k_size"] == 500000:
         k_1000_res.append(d)
 for d in data:
-    if d["target_fp_rate"] == 0.0078125 and d["proportion_of_same"] == 0.1:
-        fp_007_ps_1.append(d)
+    if d["proportion_of_same"] == 0.1 and d["num_bits"]==7:
+        ps_1.append(d)
 data = k_1000_res
-data = fp_007_ps_1
+# data = ps_1
 
 # Extract the relevant data
 sizes = [d["total_size"] for d in data]
 query_times = [d["query_time"] for d in data]
 observed_fp_rates = [d["observed_fp_rate"] for d in data]
-target_fp_rates = [d["target_fp_rate"] for d in data]
+num_bits = [d["num_bits"] for d in data]
 query_time_per_key = [d["query_time_per_key"] for d in data]
 k_prime_sizes = [d["k_prime_size"] for d in data]
 proportion_of_same = [d["proportion_of_same"] for d in data]
 k_size = [d["k_size"] for d in data]
 
-title1 = "Observed vs. Target False Positive Rates"
-title2 = "Query Time per key vs. Target False Positive Rate"
-title3 = "Total Size of the Bloom Filter vs. Target False Positive Rate"
+title1 = "Observed False Positive Rates vs. Num Bits"
+title2 = "Query Time per key vs. Observed Positive Rate"
+title3 = "Total Size of the MPHF+Finger vs. Num Bits"
 title4 = "Observed FPR vs |k'|"
 title5 = "Observed FPR vs proportion of same between K' and K"
 title6 = "|K| size vs Total Size"
 title7 = "|K| size vs query time per key"
 title8 = "|K'| size vs query time per key"
+title9 = "Observed FP rate vs query time per key"
+title10 = "Number of bits vs Query time"
 
-titles = [title1, title2, title3, title4, title5, title6, title7, title8]
+titles = [title1, title2, title3, title4, title5, title6, title7, title8, title9, title10]
 for i in range(len(titles)):
-    titles[i] += " for fixed target fp and pos"
+    # titles[i] += " for fixed prop of same"
+    titles[i] += " for |K| = 500000"
     
 print(titles)
 
 # Plot the observed vs. target false positive rates
 plt.figure()
-plt.scatter(target_fp_rates, observed_fp_rates)
-plt.xlabel("Target False Positive Rate")
+plt.scatter(num_bits, observed_fp_rates)
+plt.xlabel("Num Bits")
 plt.ylabel("Observed False Positive Rate")
 plt.title(titles[0])
-plt.savefig("observed_vs_target_fp_rates.png")
+plt.savefig("observed_fp_rates_vs_num_bits.png")
 
 # Plot the query time vs. target false positive rate
 plt.figure()
-plt.scatter(target_fp_rates, query_time_per_key)
-plt.xlabel("Target False Positive Rate")
+plt.scatter(observed_fp_rates, query_time_per_key)
+plt.xlabel("Observed False Positive Rate")
 plt.ylabel("Query Time (ms) per key")
 plt.title(titles[1])
-plt.savefig("query_time_vs_target_fp_rate.png")
+plt.savefig("query_time_vs_observed_fp_rate.png")
 
 # Plot the total size of the Bloom filter vs. target false positive rate
 plt.figure()
-plt.scatter(target_fp_rates, sizes)
-plt.xlabel("Target False Positive Rate")
-plt.ylabel("Total Size of the Bloom Filter (bytes)")
+plt.scatter(num_bits, sizes)
+plt.xlabel("Num Bits")
+plt.ylabel("Total Size of the MPHF+Finger (bytes)")
 plt.yscale("log")
 plt.title(titles[2])
-plt.savefig("total_size_vs_target_fp_rate.png")
+plt.savefig("total_size_vs_num_bits.png")
 
 # Plot the observed vs. target false positive rates
 plt.figure()
@@ -107,7 +110,7 @@ plt.scatter(k_size, sizes)
 plt.xlabel("K Size")
 plt.xscale("log")
 plt.yscale("log")
-plt.ylabel("Total Size of the Bloom Filter (bytes)")
+plt.ylabel("Total Size of the MPHF+Finger (bytes)")
 plt.title(titles[5])
 plt.savefig("total_size_vs_k_size.png")
 
@@ -131,4 +134,28 @@ plt.ylabel("Query time per key")
 plt.xscale("log")
 plt.title(titles[7])
 plt.savefig("k_prime_size_vs_query_per_key.png")
+plt.close()
+
+
+
+# title8
+plt.figure()
+plt.scatter(observed_fp_rates, query_time_per_key)
+plt.xlabel("Observed_fp_rate")
+plt.ylabel("Query time per key")
+plt.xscale("log")
+plt.title(titles[8])
+plt.savefig("observed_fp_rate_vs_lookup.png")
+plt.close()
+
+
+
+# title10
+plt.figure()
+plt.scatter(observed_fp_rates, query_time_per_key)
+plt.xlabel("Number of bits")
+plt.ylabel("Query time per key")
+# plt.xscale("log")
+plt.title(titles[9])
+plt.savefig("num_bits_vs_lookup.png")
 plt.close()
